@@ -3,13 +3,13 @@ will help in gaining insight for the fundraising coming up the next year. The ob
  increase the number of donors in the database, increase the donation frequency of the donors,
  and increase the value of donations in the database.*/
  
- --getting familiar with the data in each tableDonation_Data
+ --getting familiar with the data in each table
  
  select * from Donation_Data;
  
  select * from Donor_Data;
  
- --1. Getting the donation value per donorDonation_Data
+ --1. Getting the donation value per donor
  
 select a.id, a.first_name, a.donation, b.donation_frequency, 
  	case 
@@ -24,7 +24,7 @@ order by donation_value desc
 --to see the high value donors, we will limit the output of the above query to 20
 limit 20;
 
---2. What donation_frequency attracts more customers?Donation_Data
+--2. What donation_frequency attracts more customers?
 
 --Checking the distinct donation frequencies available
 
