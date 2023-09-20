@@ -10,3 +10,5 @@ With a focus on data-driven decision-making, these projects showcase my ability 
 Whether you're an aspiring data analyst seeking inspiration, a fellow professional looking to collaborate, or simply curious about the power of data, this repository offers a wealth of knowledge and expertise. Join me in exploring the intersection of data, analysis, and actionable insights.
 
 Welcome to my Data Analysis Portfolio Repository – where data reveals its stories, waiting to be discovered.
+
+Tableau profile: [https://public.tableau.com/app/profile/jeanwanogho](url)
